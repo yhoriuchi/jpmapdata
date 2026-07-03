@@ -1,6 +1,6 @@
 # jpmapdata
 
-`jpmapdata` contains boundary GeoPackage files used by
+`jpmapdata` contains boundary `GeoPackage` files used by
 [`jpmap`](https://yhoriuchi.github.io/jpmap/).
 
 The package is intentionally separate from `jpmap` so updates to map-drawing
@@ -28,5 +28,5 @@ build the national MLIT N03 file locally:
 jpmap_build_data(year = 2024)
 ```
 
-The national 2024 GeoPackage is very large, so it is not bundled in the first
+The national 2024 `GeoPackage` is very large, so it is not bundled in the first
 CRAN-facing `jpmapdata` package.

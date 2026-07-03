@@ -8,7 +8,7 @@ available_jpmapdata()
 A data frame with \code{year}, \code{pref_code}, \code{prefecture}, and \code{path}.
 }
 \description{
-List Boundary Files Shipped with jpmapdata
+Lists the bundled boundary \code{GeoPackage} files available to \pkg{jpmap}.
 }
 \examples{
 available_jpmapdata()

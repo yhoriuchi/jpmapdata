@@ -8,7 +8,8 @@ jpmapdata_dir()
 Path to the installed \code{extdata} directory.
 }
 \description{
-Locate jpmapdata Boundary Files
+Returns the directory where \pkg{jpmapdata} installs its bundled boundary
+\code{GeoPackage} files.
 }
 \examples{
 jpmapdata_dir()

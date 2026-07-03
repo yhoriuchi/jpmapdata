@@ -1,6 +1,10 @@
 #' Locate jpmapdata Boundary Files
 #'
 #' @return Path to the installed `extdata` directory.
+#'
+#' @description
+#' Returns the directory where `jpmapdata` installs its bundled boundary
+#' `GeoPackage` files.
 #' @export
 #'
 #' @examples
@@ -12,6 +16,9 @@ jpmapdata_dir <- function() {
 #' List Boundary Files Shipped with jpmapdata
 #'
 #' @return A data frame with `year`, `pref_code`, `prefecture`, and `path`.
+#'
+#' @description
+#' Lists the bundled boundary `GeoPackage` files available to `jpmap`.
 #' @export
 #'
 #' @examples
