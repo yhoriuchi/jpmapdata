@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use jpmapdata, please cite it using the metadata below."
+type: software
+title: "jpmapdata: Boundary Data for Japan Maps"
+version: 0.1.0
+date-released: 2026-07-10
+authors:
+  - family-names: Horiuchi
+    given-names: Yusaku
+    orcid: https://orcid.org/0000-0003-0295-4089
+identifiers:
+  - type: doi
+    value: 10.32614/CRAN.package.jpmapdata
+    description: "DOI for the package's CRAN record"
+license: CC-BY-4.0
+repository-code: https://github.com/yhoriuchi/jpmapdata
+url: https://CRAN.R-project.org/package=jpmapdata

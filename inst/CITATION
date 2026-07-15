@@ -1,0 +1,13 @@
+citHeader("Please cite the jpmapdata package whenever you use its boundary data.")
+
+bibentry(
+  bibtype = "Manual",
+  key     = "jpmapdata",
+  title   = "jpmapdata: Boundary Data for Japan Maps",
+  author  = person("Yusaku", "Horiuchi"),
+  year         = "2026",
+  note         = "R package version 0.1.0",
+  organization = "Comprehensive R Archive Network (CRAN)",
+  doi          = "10.32614/CRAN.package.jpmapdata",
+  url          = "https://CRAN.R-project.org/package=jpmapdata"
+)
